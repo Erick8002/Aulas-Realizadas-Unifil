@@ -1,4 +1,4 @@
-package exercicioZoologico;
+package exerciciosMarcelo.exercicioZoologico;
 
 public class Animal {
     private String nome;

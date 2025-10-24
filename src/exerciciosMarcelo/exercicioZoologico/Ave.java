@@ -1,6 +1,6 @@
-package exercicioZoologico;
+package exerciciosMarcelo.exercicioZoologico;
 
-public class Ave extends Animal{
+public class Ave extends Animal {
     private String somAve;
 
     public Ave(String nome, int idade, String somAve){
