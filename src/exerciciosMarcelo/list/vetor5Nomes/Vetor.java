@@ -2,7 +2,7 @@ package exerciciosMarcelo.list.vetor5Nomes;
 
 import java.util.Scanner;
 
-public class Main {
+public class Vetor {
     public static void main(String[] args) {
         String[] vectNome = new String[5];
 

@@ -1,4 +1,4 @@
-package exercicio;
+package exerciciosMarcelo.empresa;
 
 
 public class Funcionario extends Pessoa {

@@ -1,4 +1,4 @@
-package sistemaCadastro;
+package exerciciosMarcelo.sistemaCadastro;
 
 
 public class Departamento {

@@ -1,7 +1,7 @@
-package sistemaCadastro;
+package exerciciosMarcelo.sistemaCadastro;
 import java.util.Scanner;
 
-public class Main {
+public class SistemaCadastro {
     public static void main(String[] args) {
         Funcionario f = new Funcionario();
         Departamento d = new Departamento();
