@@ -1,20 +1,20 @@
 package exerciciosMarcelo.list.gerenciadorJogadoresClube;
 
 public class Jogador {
-    private int camisa;
+    private Integer camisa;
     private String nome;
     private double salario;
 
-    public Jogador(int camisa, String nome, double salario) {
+    public Jogador(Integer camisa, String nome, double salario) {
         this.camisa = camisa;
         this.nome = nome;
         this.salario = salario;
     }
 
-    public int getCamisa() {
+    public Integer getCamisa() {
         return camisa;
     }
-    public void setCamisa(int camisa) {
+    public void setCamisa(Integer camisa) {
         this.camisa = camisa;
     }
 
@@ -28,7 +28,17 @@ public class Jogador {
     public double getSalario() {
         return salario;
     }
-    public void setSalario(double salario) {
-        this.salario = salario;
+
+    public double aumentarSalario(double valor){
+        return salario+=valor;
+    }
+
+    public String toString(){
+        return String.format(
+                "Número: %s%n" +
+                        "Nome: %s%n" +
+                        "Salário: %.2f%n",
+                getCamisa(), getNome(), getSalario()
+        );
     }
 }
