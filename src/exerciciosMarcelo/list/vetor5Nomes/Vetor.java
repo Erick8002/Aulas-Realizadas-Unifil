@@ -16,5 +16,7 @@ public class Vetor {
         for(int i = vectNome.length-1; i >= 0; i--){
             System.out.println("Nome: " + vectNome[i]);
         }
+
+        scanner.close();
     }
 }

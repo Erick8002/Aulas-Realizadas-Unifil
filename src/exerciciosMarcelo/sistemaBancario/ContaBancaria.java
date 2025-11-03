@@ -1,4 +1,4 @@
-package sistemaBancario;
+package exerciciosMarcelo.sistemaBancario;
 
 public class ContaBancaria {
     private final String numero;

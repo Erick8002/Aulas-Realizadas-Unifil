@@ -17,5 +17,7 @@ public class SistemaCadastro {
         f.setDepartamento(d);
 
         f.exibirInformacao();
+
+        scanner.close();
     }
 }

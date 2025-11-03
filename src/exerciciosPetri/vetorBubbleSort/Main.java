@@ -1,8 +1,6 @@
 package exerciciosPetri.vetorBubbleSort;
 
-
 import java.util.Scanner;
-
 
 public class Main {
     public static void main(String[] args) {
@@ -13,7 +11,6 @@ public class Main {
         int maiorNum = 0;
         int menorNum = 1000000000;
 
-
         for(int i = 0; i< vectNum.length; i++){
             vectNum[i] = scanner.nextInt();
 
@@ -23,7 +20,6 @@ public class Main {
                 menorNum = vectNum[i];
             }
         }
-
 
         int temp = 0;
         do{
@@ -36,11 +32,9 @@ public class Main {
             }
         }while(vectNum[0] != menorNum || vectNum[9] != maiorNum);
 
-
         for(int i = 0; i<vectNum.length; i++){
             System.out.print(vectNum[i] + " ");
         }
-
 
         scanner.close();
     }

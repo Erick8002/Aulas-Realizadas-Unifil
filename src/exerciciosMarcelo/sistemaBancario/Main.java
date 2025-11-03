@@ -1,4 +1,4 @@
-package sistemaBancario;
+package exerciciosMarcelo.sistemaBancario;
 
 public class Main {
     public static void main(String[] args) {
@@ -27,6 +27,5 @@ public class Main {
 
         System.out.println("Comprovante da Conta Poupança");
         cp.imprimirComprovante();
-
     }
 }

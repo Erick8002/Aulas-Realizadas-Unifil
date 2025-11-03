@@ -1,4 +1,4 @@
-package sistemaBancario;
+package exerciciosMarcelo.sistemaBancario;
 
 public class ContaCorrente extends ContaBancaria{
     private double taxaSaque;

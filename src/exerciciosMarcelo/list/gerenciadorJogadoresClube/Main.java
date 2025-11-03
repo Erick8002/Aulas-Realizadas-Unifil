@@ -66,5 +66,7 @@ public class Main {
             System.out.println(j);
             numeroMostrar++;
         }
+
+        scanner.close();
     }
 }

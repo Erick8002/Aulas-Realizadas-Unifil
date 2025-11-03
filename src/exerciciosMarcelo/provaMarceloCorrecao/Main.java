@@ -1,4 +1,4 @@
-package provaCorrecao;
+package exerciciosMarcelo.provaMarceloCorrecao;
 import java.util.Scanner;
 
 public class Main {
@@ -32,5 +32,6 @@ public class Main {
         System.out.println(sh);
         System.out.println();
 
+        scanner.close();
     }
 }

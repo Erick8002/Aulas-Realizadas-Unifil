@@ -44,5 +44,7 @@ public class Lista {
         String inserirNomeSegundaPosicao = scanner.nextLine();
         nomes.add(1, inserirNomeSegundaPosicao);
         System.out.println(nomes);
+
+        scanner.close();
     }
 }
