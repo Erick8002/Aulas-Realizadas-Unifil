@@ -1,6 +1,6 @@
-package exercicioCompleto;
+package exercicioCompleto.gerenciadorDeAtivos;
 
-public abstract class AtivoDigital implements Transacionavel<Double>{
+public abstract class AtivoDigital implements Transacionavel<Double> {
     protected String nome;
     protected double valorEmDolar;
 

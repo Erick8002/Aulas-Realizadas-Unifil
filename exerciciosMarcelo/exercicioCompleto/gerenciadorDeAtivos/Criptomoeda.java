@@ -1,6 +1,6 @@
-package exercicioCompleto;
+package exercicioCompleto.gerenciadorDeAtivos;
 
-public class Criptomoeda extends AtivoDigital{
+public class Criptomoeda extends AtivoDigital {
 
 
     public Criptomoeda(String nome, double valorEmDolar) {
