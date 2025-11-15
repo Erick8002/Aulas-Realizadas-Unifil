@@ -1,4 +1,4 @@
-package provaMarcelo;
+package provaMarcelo.superHeroi;
 import java.util.Scanner;
 
 public class Main {

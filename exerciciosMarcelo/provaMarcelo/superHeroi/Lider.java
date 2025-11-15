@@ -1,4 +1,4 @@
-package provaMarcelo;
+package provaMarcelo.superHeroi;
 
 public class Lider extends SuperHeroi{
     private int tempoLideranca;

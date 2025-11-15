@@ -1,4 +1,4 @@
-package provaMarcelo;
+package provaMarcelo.superHeroi;
 
 public class Endereco {
     private String rua;
