@@ -1,4 +1,4 @@
-package exemploGenerico.exemplo2;
+package generics.exemplo2;
 
 import java.util.*;
 

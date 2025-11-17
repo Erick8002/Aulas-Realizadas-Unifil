@@ -1,4 +1,4 @@
-package exemploGenerico.exemplo1;
+package generics.exemplo1;
 
 public class Main {
     public static void main(String[] args) {
