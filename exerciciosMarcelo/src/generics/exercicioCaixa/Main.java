@@ -1,4 +1,4 @@
-package exerciciosMarcelo.src.generics.exercicioCaixa;
+package generics.exercicioCaixa;
 
 public class Main{
     public static void main(String[] args) {

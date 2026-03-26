@@ -1,4 +1,4 @@
-package exerciciosMarcelo.src.exerciciosFixacaoClassesAbstratas.sistemaPersonagemJogo;
+package exerciciosFixacaoClassesAbstratas.sistemaPersonagemJogo;
 
 public abstract class Personagem {
     private String nome;

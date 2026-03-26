@@ -1,4 +1,4 @@
-package exerciciosMarcelo.src.formasAbstratas.formaGeometricaAbstrata;
+package formasAbstratas.formaGeometricaAbstrata;
 
 public class Triangulo extends FormaGeometrica{
     private double base;

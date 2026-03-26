@@ -1,4 +1,4 @@
-package exerciciosMarcelo.src.exercicioZoologico;
+package exercicioZoologico;
 
 import java.util.Scanner;
 

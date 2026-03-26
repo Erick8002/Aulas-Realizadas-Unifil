@@ -1,4 +1,4 @@
-package exerciciosMarcelo.src.list.arrayList;
+package list.arrayList;
 
 import java.util.*;
 

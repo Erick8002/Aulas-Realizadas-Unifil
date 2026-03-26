@@ -1,4 +1,4 @@
-package exerciciosMarcelo.src.exerciciosFixacaoClassesAbstratas.sistemaControleEntrega;
+package exerciciosFixacaoClassesAbstratas.sistemaControleEntrega;
 
 public class EntregaLocal extends Entrega{
     public EntregaLocal(String codigoPedido){

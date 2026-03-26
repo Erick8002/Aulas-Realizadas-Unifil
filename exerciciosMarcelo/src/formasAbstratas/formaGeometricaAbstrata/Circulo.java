@@ -1,4 +1,4 @@
-package exerciciosMarcelo.src.formasAbstratas.formaGeometricaAbstrata;
+package formasAbstratas.formaGeometricaAbstrata;
 
 public class Circulo extends FormaGeometrica{
     private final double pi = 3.14;

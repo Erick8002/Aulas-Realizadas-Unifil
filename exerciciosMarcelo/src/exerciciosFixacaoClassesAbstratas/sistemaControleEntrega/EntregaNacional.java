@@ -1,4 +1,4 @@
-package exerciciosMarcelo.src.exerciciosFixacaoClassesAbstratas.sistemaControleEntrega;
+package exerciciosFixacaoClassesAbstratas.sistemaControleEntrega;
 
 public class EntregaNacional extends Entrega{
     private double distancia;

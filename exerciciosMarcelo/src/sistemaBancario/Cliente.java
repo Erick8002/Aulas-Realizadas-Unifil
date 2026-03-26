@@ -1,4 +1,4 @@
-package exerciciosMarcelo.src.sistemaBancario;
+package sistemaBancario;
 
 public class Cliente {
     private String nome;

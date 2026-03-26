@@ -1,4 +1,4 @@
-package exerciciosMarcelo.src.lambda.exemplo2;
+package lambda.exemplo2;
 
 interface ManipularString{
     String manipular(String str);

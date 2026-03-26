@@ -1,4 +1,4 @@
-package exerciciosMarcelo.src.provaMarcelo.sistemaVeiculo;
+package provaMarcelo.sistemaVeiculo;
 
 import java.util.ArrayList;
 import java.util.List;

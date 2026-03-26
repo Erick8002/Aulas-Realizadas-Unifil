@@ -1,4 +1,4 @@
-package exerciciosMarcelo.src.exerciciosInterface.exercicioAnimalSerVivo;
+package exerciciosInterface.exercicioAnimalSerVivo;
 
 public class Animal2 implements SerVivo{
 

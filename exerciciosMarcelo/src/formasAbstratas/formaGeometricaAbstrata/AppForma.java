@@ -1,4 +1,4 @@
-package exerciciosMarcelo.src.formasAbstratas.formaGeometricaAbstrata;
+package formasAbstratas.formaGeometricaAbstrata;
 
 public class AppForma {
     public static void main(String[] args) {

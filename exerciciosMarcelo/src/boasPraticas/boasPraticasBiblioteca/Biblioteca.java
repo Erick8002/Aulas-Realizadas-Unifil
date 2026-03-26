@@ -1,4 +1,4 @@
-package exerciciosMarcelo.src.boasPraticas.boasPraticasBiblioteca;
+package boasPraticas.boasPraticasBiblioteca;
 
 import java.util.ArrayList;
 import java.util.List;

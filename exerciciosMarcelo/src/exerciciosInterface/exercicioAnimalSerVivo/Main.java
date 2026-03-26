@@ -1,4 +1,4 @@
-package exerciciosMarcelo.src.exerciciosInterface.exercicioAnimalSerVivo;
+package exerciciosInterface.exercicioAnimalSerVivo;
 
 public class Main {
 }

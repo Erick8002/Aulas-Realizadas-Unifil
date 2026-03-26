@@ -1,4 +1,4 @@
-package exerciciosMarcelo.src.funcionario;
+package funcionario;
 
 public class Gerente extends Funcionario{
     private String senha;

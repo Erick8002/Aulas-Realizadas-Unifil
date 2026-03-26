@@ -1,4 +1,4 @@
-package exerciciosMarcelo.src.formasAbstratas.formaGeometricaAbstrata;
+package formasAbstratas.formaGeometricaAbstrata;
 
 public abstract class FormaGeometrica {
     private String nome;

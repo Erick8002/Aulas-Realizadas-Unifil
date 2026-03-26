@@ -5,7 +5,7 @@ public class NoDuplamenteEncadeado {
     NoDuplamenteEncadeado prox;
     NoDuplamenteEncadeado ant;
 
-    NoDuplamenteEncadeado(Integer conteudo){
+    NoDuplamenteEncadeado(Integer conteudo) {
         this.conteudo = conteudo;
         this.prox = null;
         this.ant = null;
@@ -14,6 +14,7 @@ public class NoDuplamenteEncadeado {
     public Integer getConteudo() {
         return conteudo;
     }
+
     public void setConteudo(Integer conteudo) {
         this.conteudo = conteudo;
     }
@@ -21,6 +22,7 @@ public class NoDuplamenteEncadeado {
     public NoDuplamenteEncadeado getProx() {
         return prox;
     }
+
     public void setProx(NoDuplamenteEncadeado prox) {
         this.prox = prox;
     }
@@ -28,6 +30,7 @@ public class NoDuplamenteEncadeado {
     public NoDuplamenteEncadeado getAnt() {
         return ant;
     }
+
     public void setAnt(NoDuplamenteEncadeado ant) {
         this.ant = ant;
     }

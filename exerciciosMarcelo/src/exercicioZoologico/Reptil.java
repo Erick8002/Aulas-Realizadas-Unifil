@@ -1,4 +1,4 @@
-package exerciciosMarcelo.src.exercicioZoologico;
+package exercicioZoologico;
 
 public class Reptil extends Animal{
     private String somReptil;

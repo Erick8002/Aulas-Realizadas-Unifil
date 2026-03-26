@@ -1,4 +1,4 @@
-package exerciciosMarcelo.src.formasAbstratas.funcionarioAbstrato;
+package formasAbstratas.funcionarioAbstrato;
 
 public class Horista extends FuncionarioAbstrato{
     private double valorHora;

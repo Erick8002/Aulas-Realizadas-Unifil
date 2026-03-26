@@ -1,4 +1,4 @@
-package exerciciosMarcelo.src.formasAbstratas.exercicioVeiculo;
+package formasAbstratas.exercicioVeiculo;
 
 public abstract class Veiculo {
     String tipo(){

@@ -1,4 +1,4 @@
-package exerciciosMarcelo.src.sistemaCadastro;
+package sistemaCadastro;
 import java.util.Scanner;
 
 public class SistemaCadastro {

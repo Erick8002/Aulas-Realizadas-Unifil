@@ -1,4 +1,4 @@
-package exerciciosMarcelo.src.provaMarcelo.sistemaVeiculo;
+package provaMarcelo.sistemaVeiculo;
 
 public interface Locavel {
     double calcularValorAluguel(int dias) throws IllegalArgumentException;

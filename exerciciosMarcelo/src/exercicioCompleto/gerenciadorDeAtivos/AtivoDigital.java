@@ -1,4 +1,4 @@
-package exerciciosMarcelo.src.exercicioCompleto.gerenciadorDeAtivos;
+package exercicioCompleto.gerenciadorDeAtivos;
 
 public abstract class AtivoDigital implements Transacionavel<Double> {
     protected String nome;

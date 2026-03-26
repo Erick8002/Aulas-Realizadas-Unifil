@@ -1,4 +1,4 @@
-package exerciciosMarcelo.src.exercicioCompleto.processamentosDePedidosOnline;
+package exercicioCompleto.processamentosDePedidosOnline;
 
 public abstract class Produto implements Transacionavel<Double>{
     protected int id;

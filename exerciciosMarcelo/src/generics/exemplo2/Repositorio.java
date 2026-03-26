@@ -1,4 +1,4 @@
-package exerciciosMarcelo.src.generics.exemplo2;
+package generics.exemplo2;
 
 import java.util.*;
 

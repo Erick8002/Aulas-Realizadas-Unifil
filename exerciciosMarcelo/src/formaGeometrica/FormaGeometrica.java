@@ -1,4 +1,4 @@
-package exerciciosMarcelo.src.formaGeometrica;
+package formaGeometrica;
 
 public class FormaGeometrica {
     private String nome;

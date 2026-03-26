@@ -1,4 +1,4 @@
-package exerciciosMarcelo.src.exerciciosInterface.exercicioAnimalSerVivo;
+package exerciciosInterface.exercicioAnimalSerVivo;
 
 interface SerVivo {
     public void mover();

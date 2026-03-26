@@ -1,4 +1,4 @@
-package exerciciosMarcelo.src.provaMarcelo.sistemaVeiculo;
+package provaMarcelo.sistemaVeiculo;
 
 public class Carro extends VeiculoMotorizado{
     private int quantidadePorta;

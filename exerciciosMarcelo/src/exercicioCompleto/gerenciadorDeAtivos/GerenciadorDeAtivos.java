@@ -1,4 +1,4 @@
-package exerciciosMarcelo.src.exercicioCompleto.gerenciadorDeAtivos;
+package exercicioCompleto.gerenciadorDeAtivos;
 
 import java.util.ArrayList;
 import java.util.List;

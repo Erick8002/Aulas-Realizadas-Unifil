@@ -1,4 +1,4 @@
-package exerciciosMarcelo.src.boasPraticas.boasPraticasBiblioteca;
+package boasPraticas.boasPraticasBiblioteca;
 
 public class Livro {
     private String titulo;

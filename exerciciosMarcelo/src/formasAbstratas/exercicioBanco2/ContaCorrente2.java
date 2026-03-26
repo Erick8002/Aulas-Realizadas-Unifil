@@ -1,4 +1,4 @@
-package exerciciosMarcelo.src.formasAbstratas.exercicioBanco2;
+package formasAbstratas.exercicioBanco2;
 
 public class ContaCorrente2 extends Conta{
     @Override

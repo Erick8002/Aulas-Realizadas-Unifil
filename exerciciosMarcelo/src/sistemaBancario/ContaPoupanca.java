@@ -1,4 +1,4 @@
-package exerciciosMarcelo.src.sistemaBancario;
+package sistemaBancario;
 
 public class ContaPoupanca extends ContaBancaria{
     private double taxaJuros = 0.005;

@@ -1,4 +1,4 @@
-package exerciciosMarcelo.src.list.vetor5Nomes;
+package list.vetor5Nomes;
 
 import java.util.Scanner;
 

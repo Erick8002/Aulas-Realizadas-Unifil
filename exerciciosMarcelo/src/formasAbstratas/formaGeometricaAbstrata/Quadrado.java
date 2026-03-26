@@ -1,4 +1,4 @@
-package exerciciosMarcelo.src.formasAbstratas.formaGeometricaAbstrata;
+package formasAbstratas.formaGeometricaAbstrata;
 
 public class Quadrado extends  FormaGeometrica{
     private double lado;

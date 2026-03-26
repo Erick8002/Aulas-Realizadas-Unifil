@@ -1,4 +1,4 @@
-package exerciciosMarcelo.src.tryCat.exemplo1;
+package tryCat.exemplo1;
 
 public class Main2 {
     public static void main(String[] args) {

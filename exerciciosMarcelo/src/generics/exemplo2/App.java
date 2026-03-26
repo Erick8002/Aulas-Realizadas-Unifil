@@ -1,4 +1,4 @@
-package exerciciosMarcelo.src.generics.exemplo2;
+package generics.exemplo2;
 
 public class App {
     public static void main(String[] args) {

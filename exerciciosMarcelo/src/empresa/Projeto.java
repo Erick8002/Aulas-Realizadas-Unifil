@@ -1,4 +1,4 @@
-package exerciciosMarcelo.src.empresa;
+package empresa;
 
 public class Projeto {
     private String nomeProjeto;

@@ -1,4 +1,4 @@
-package exerciciosMarcelo.src.exerciciosInterface.pagamento;
+package exerciciosInterface.pagamento;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;

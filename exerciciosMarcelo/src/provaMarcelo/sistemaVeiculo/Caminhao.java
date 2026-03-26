@@ -1,4 +1,4 @@
-package exerciciosMarcelo.src.provaMarcelo.sistemaVeiculo;
+package provaMarcelo.sistemaVeiculo;
 
 public class Caminhao extends VeiculoMotorizado{
     private double capacidadeToneladas;

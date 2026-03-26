@@ -1,4 +1,4 @@
-package exerciciosMarcelo.src.DesignPatternsPagamento.src.factory;
+package DesignPatternsPagamento.factory;
 
 public class PagamentoFactory {
 }

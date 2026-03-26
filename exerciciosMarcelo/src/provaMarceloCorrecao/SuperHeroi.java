@@ -1,4 +1,4 @@
-package exerciciosMarcelo.src.provaMarceloCorrecao;
+package provaMarceloCorrecao;
 
 public class SuperHeroi {
     private String nome;

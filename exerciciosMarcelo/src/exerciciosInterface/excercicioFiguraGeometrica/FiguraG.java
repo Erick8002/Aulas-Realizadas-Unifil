@@ -1,4 +1,4 @@
-package exerciciosMarcelo.src.exerciciosInterface.excercicioFiguraGeometrica;
+package exerciciosInterface.excercicioFiguraGeometrica;
 
 interface FiguraG {
     public double calcularArea();

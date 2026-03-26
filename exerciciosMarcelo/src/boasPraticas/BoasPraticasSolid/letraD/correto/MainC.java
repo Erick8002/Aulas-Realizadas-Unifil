@@ -1,4 +1,4 @@
-package exerciciosMarcelo.src.boasPraticas.BoasPraticasSolid.letraD.correto;
+package boasPraticas.BoasPraticasSolid.letraD.correto;
 
 public class MainC {
     public static void main(String[] args) {

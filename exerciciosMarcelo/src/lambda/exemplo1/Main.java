@@ -1,4 +1,4 @@
-package exerciciosMarcelo.src.lambda.exemplo1;
+package lambda.exemplo1;
 
 public class Main {
     public interface OperacaoMatematica{

@@ -1,4 +1,4 @@
-package exerciciosMarcelo.src.list.testList;
+package list.testList;
 
 public class Produto {
     private String produto;

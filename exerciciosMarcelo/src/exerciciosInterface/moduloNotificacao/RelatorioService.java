@@ -1,4 +1,4 @@
-package exerciciosMarcelo.src.exerciciosInterface.moduloNotificacao;
+package exerciciosInterface.moduloNotificacao;
 
 public class RelatorioService{
     private final Notificador notificador;

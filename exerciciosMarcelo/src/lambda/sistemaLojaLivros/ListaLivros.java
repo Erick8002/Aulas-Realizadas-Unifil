@@ -1,4 +1,4 @@
-package exerciciosMarcelo.src.lambda.sistemaLojaLivros;
+package lambda.sistemaLojaLivros;
 
 import java.util.ArrayList;
 import java.util.List;

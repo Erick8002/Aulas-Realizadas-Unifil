@@ -1,4 +1,4 @@
-package exerciciosMarcelo.src.exerciciosFixacaoClassesAbstratas.sistemaPersonagemJogo;
+package exerciciosFixacaoClassesAbstratas.sistemaPersonagemJogo;
 
 public class Guerreiro extends Personagem {
     public Guerreiro(String nome, int nivel){

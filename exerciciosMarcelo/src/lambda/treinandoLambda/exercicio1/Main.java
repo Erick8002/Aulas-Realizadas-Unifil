@@ -1,4 +1,4 @@
-package exerciciosMarcelo.src.lambda.treinandoLambda.exercicio1;
+package lambda.treinandoLambda.exercicio1;
 
 public class Main {
     public static void main(String[] args) {

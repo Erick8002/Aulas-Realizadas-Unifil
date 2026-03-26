@@ -1,4 +1,4 @@
-package exerciciosMarcelo.src.boasPraticas.BoasPraticasSolid.letraD.correto;
+package boasPraticas.BoasPraticasSolid.letraD.correto;
 
 public interface DispositivoEntrada {
     void digitar();

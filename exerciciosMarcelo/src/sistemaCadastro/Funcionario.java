@@ -1,4 +1,4 @@
-package exerciciosMarcelo.src.sistemaCadastro;
+package sistemaCadastro;
 
 public class Funcionario {
     private String nome;

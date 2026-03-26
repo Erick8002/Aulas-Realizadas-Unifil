@@ -1,4 +1,4 @@
-package exerciciosMarcelo.src.formasAbstratas.funcionarioAbstrato;
+package formasAbstratas.funcionarioAbstrato;
 
 public abstract class FuncionarioAbstrato {
     private String nome;

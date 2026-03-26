@@ -1,4 +1,4 @@
-package exerciciosMarcelo.src.exerciciosFixacaoClassesAbstratas.sistemaPersonagemJogo;
+package exerciciosFixacaoClassesAbstratas.sistemaPersonagemJogo;
 
 public class Main {
     public static void main(String[] args) {

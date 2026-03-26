@@ -1,4 +1,4 @@
-package exerciciosMarcelo.src.generics.exercicioCaixa;
+package generics.exercicioCaixa;
 
 public class Caixa<T> {
     private T item;

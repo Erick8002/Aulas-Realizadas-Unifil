@@ -1,4 +1,4 @@
-package exerciciosMarcelo.src.boasPraticas.BoasPraticasSolid.letraD.errado;
+package boasPraticas.BoasPraticasSolid.letraD.errado;
 
 public class TecladoE {
     public void digitar(){

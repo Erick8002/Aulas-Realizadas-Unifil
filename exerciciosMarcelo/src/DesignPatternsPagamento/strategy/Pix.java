@@ -1,0 +1,9 @@
+package DesignPatternsPagamento.strategy;
+
+public class Pix implements Pagamento, exerciciosInterface.pagamento.Pagamento {
+    @Override
+    public void pagar(double valor) {
+        System.out.println("Pagamento via Pix no valor de: R$" + valor);
+    }
+    
+}

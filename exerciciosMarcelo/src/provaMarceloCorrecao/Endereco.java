@@ -1,4 +1,4 @@
-package exerciciosMarcelo.src.provaMarceloCorrecao;
+package provaMarceloCorrecao;
 
 public class Endereco {
     private String rua;

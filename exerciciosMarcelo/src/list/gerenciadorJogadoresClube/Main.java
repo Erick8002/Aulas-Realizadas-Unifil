@@ -1,4 +1,4 @@
-package exerciciosMarcelo.src.list.gerenciadorJogadoresClube;
+package list.gerenciadorJogadoresClube;
 
 import java.util.ArrayList;
 import java.util.List;

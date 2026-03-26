@@ -1,4 +1,4 @@
-package exerciciosMarcelo.src.tryCat.exercicioTratarErros;
+package tryCat.exercicioTratarErros;
 
 import java.util.InputMismatchException;
 import java.util.Locale;

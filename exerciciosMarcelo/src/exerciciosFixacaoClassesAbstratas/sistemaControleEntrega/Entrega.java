@@ -1,4 +1,4 @@
-package exerciciosMarcelo.src.exerciciosFixacaoClassesAbstratas.sistemaControleEntrega;
+package exerciciosFixacaoClassesAbstratas.sistemaControleEntrega;
 
 public abstract class Entrega {
     private String codigoPedido;

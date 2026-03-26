@@ -1,4 +1,4 @@
-package exerciciosMarcelo.src.formaGeometrica;
+package formaGeometrica;
 
 import java.util.Locale;
 

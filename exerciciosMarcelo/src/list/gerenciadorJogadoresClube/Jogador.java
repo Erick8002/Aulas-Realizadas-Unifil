@@ -1,4 +1,4 @@
-package exerciciosMarcelo.src.list.gerenciadorJogadoresClube;
+package list.gerenciadorJogadoresClube;
 
 public class Jogador {
     private Integer camisa;

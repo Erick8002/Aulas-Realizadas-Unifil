@@ -1,4 +1,4 @@
-package exerciciosMarcelo.src.provaMarceloCorrecao;
+package provaMarceloCorrecao;
 import java.util.Scanner;
 
 public class Main {

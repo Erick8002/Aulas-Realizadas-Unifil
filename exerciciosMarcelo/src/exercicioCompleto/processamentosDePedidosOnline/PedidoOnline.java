@@ -1,4 +1,4 @@
-package exerciciosMarcelo.src.exercicioCompleto.processamentosDePedidosOnline;
+package exercicioCompleto.processamentosDePedidosOnline;
 
 public class PedidoOnline extends Produto{
     private int quantidade;

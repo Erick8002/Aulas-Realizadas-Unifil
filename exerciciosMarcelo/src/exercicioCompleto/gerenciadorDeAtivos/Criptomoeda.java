@@ -1,4 +1,4 @@
-package exerciciosMarcelo.src.exercicioCompleto.gerenciadorDeAtivos;
+package exercicioCompleto.gerenciadorDeAtivos;
 
 public class Criptomoeda extends AtivoDigital {
 

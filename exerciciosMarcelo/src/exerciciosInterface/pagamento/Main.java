@@ -1,4 +1,4 @@
-package exerciciosMarcelo.src.exerciciosInterface.pagamento;
+package exerciciosInterface.pagamento;
 
 public class Main {
     public static void main(String[] args) {

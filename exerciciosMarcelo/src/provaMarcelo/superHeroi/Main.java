@@ -1,4 +1,4 @@
-package exerciciosMarcelo.src.provaMarcelo.superHeroi;
+package provaMarcelo.superHeroi;
 import java.util.Scanner;
 
 public class Main {

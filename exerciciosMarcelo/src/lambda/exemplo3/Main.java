@@ -1,4 +1,4 @@
-package exerciciosMarcelo.src.lambda.exemplo3;
+package lambda.exemplo3;
 
 import java.util.ArrayList;
 

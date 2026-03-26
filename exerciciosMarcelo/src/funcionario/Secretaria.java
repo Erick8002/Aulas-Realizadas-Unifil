@@ -1,4 +1,4 @@
-package exerciciosMarcelo.src.funcionario;
+package funcionario;
 
 public class Secretaria extends Funcionario{
     public Secretaria(String nome, double salario){

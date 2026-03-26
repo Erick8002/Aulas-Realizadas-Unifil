@@ -1,4 +1,4 @@
-package exerciciosMarcelo.src.exercicioZoologico;
+package exercicioZoologico;
 
 public class Animal {
     private String nome;

@@ -1,4 +1,4 @@
-package exerciciosMarcelo.src.generics.exemplo1;
+package generics.exemplo1;
 
 public class Genericos<T> {
     private T item;
