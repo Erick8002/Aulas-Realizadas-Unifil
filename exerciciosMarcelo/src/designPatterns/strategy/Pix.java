@@ -1,4 +1,4 @@
-package DesignPatternsPagamento.strategy;
+package designPatterns.strategy;
 
 public class Pix implements Pagamento, exerciciosInterface.pagamento.Pagamento {
     @Override

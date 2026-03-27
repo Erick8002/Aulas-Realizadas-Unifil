@@ -1,4 +1,4 @@
-package DesignPatternsPagamento.strategy;
+package designPatterns.strategy;
 
 public interface Pagamento {
     void pagar(double valor);

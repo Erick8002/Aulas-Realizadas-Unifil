@@ -1,0 +1,15 @@
+package designPatterns.factory;
+
+import designPatterns.strategy.*;
+
+public class PagamentoFactory {
+  public static Pagamento criarPagamento(String tipoPagamento){
+        if(tipoPagamento.equalsIgnoreCase(tipoPagamento)){
+            return new Pix();
+        } else if(tipoPagamento.equalsIgnoreCase(tipoPagamento)){
+            return new Cartao();
+        } else if(tipoPagamento.equalsIgnoreCase(tipoPagamento)){
+            return new Boleto();
+        } else throw new IllegalArgumentException("Tipo de pagamento inválido!");
+    } 
+}

@@ -1,4 +1,4 @@
-package DesignPatternsPagamento.strategy;
+package designPatterns.strategy;
 
 public class Cartao implements Pagamento {
     @Override
